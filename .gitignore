@@ -1,0 +1,7 @@
+.vercel
+.env
+node_modules
+dist
+esm
+coverage
+coverage.json
